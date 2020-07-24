@@ -1,0 +1,1 @@
+{"jobID":"b4deb6fa-6aa7-6c7f-338e-fcfcfce83b9f","spec":{"type":"policy","cause":{"Message":"","User":"Marcin Gordziejewski \u003cmarcin.gordziejewski@codility.com\u003e"},"spec":{"default:deployment/demo-echo-service":{"add":{"automated":"true"},"remove":null}}},"result":null}
