@@ -6,8 +6,6 @@ metadata:
   labels:
     k8s-app: demo-echo-service
   namespace: default
-  annotations:
-    flux.weave.works/automated: 'true'
 spec:
   replicas: 1
   selector:
